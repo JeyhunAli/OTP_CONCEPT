@@ -1,5 +1,13 @@
-package Util;
-
+package AmazonOTP;
+/**
+ * creating account on TIWILIO API 
+ * getting account sid code 
+ * and authonetication token 
+ * creating get message method inside project in java 
+ * through that method reading sid and token then it generate for us otp 
+ * then sendkeys otp 
+ * 
+ */
 import java.util.concurrent.TimeUnit;
 import java.util.stream.Stream;
 import java.util.stream.StreamSupport;
